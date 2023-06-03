@@ -2,14 +2,14 @@ package programa;
 
 public class For_4 {
     public static void main(String[] args) {
-    /*    String valor = "#";
+      String valor = "#";
         for (int i = 1; i <= 5; i++){
             System.out.println(valor);
             valor += "#";
-        }*/
-
-        for (String v = "#";!v.equals("######");v+="#"){
-            System.out.println(v);
         }
+
+        /* for (String v = "#";!v.equals("######");v+="#"){
+            System.out.println(v);
+        } */
     }
 }
